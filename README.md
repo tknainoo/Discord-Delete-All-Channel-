@@ -1,6 +1,6 @@
 # Discord Channel & Category Deleter Bot
 
-A simple Discord bot (using [discord.py](https://github.com/tknainoo/bot.py)) that deletes **all channels and categories** in your server.  
+A simple Discord bot (using [discord.py](https://github.com/tknainoo/Discord-Delete-All-Channel-/blob/main/bot.py)) that deletes **all channels and categories** in your server.  
 Useful for server resets or cleanup when you want to start fresh. ⚠️
 
 
